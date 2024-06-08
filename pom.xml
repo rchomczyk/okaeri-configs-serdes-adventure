@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <library.version.okaeri.configs>5.0.0-beta.5</library.version.okaeri.configs>
+        <library.version.okaeri.configs>5.0.2</library.version.okaeri.configs>
         <library.version.kyori.adventure>4.16.0</library.version.kyori.adventure>
         <library.version.jupiter.testing>5.10.2</library.version.jupiter.testing>
         <library.version.jetbrains.annotations>24.1.0</library.version.jetbrains.annotations>
